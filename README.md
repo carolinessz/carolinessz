@@ -17,12 +17,9 @@
 
 
 <div>
-  <p>Prof de Dev Front-End no SENAI e estudante vitalício de programação e tecnologia!</p>
+  
 </div>
 
-Sou formado em Sistemas para Internet na FAM.<br> 
-Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
- 
 <div>
   <a href="https://www.instagram.com/_carolinessz/ " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/_carolinessz" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
